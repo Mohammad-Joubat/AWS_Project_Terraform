@@ -10,7 +10,7 @@ AWS Project With Terraform and CLI
 
 
 
-2)AWS Project Steps :
+2) AWS Project Steps:
 
 ![2](https://user-images.githubusercontent.com/68898478/194744308-ed95cf14-4020-4cf8-a4f7-6c41b442c8ff.png)
 
